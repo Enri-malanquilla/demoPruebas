@@ -167,7 +167,7 @@ export const CartaPresentacion = () => {
               setAbout(false);
               setExperiencie(true);
               setContact(false);
-              setSection('#experience');
+              setSection('#otro');
             }}
           >
             EXPERIENCE
@@ -178,7 +178,7 @@ export const CartaPresentacion = () => {
               setAbout(false);
               setExperiencie(false);
               setContact(true);
-              setSection('#contact');
+              setSection('#otro');
             }}
           >
             CONTACT
